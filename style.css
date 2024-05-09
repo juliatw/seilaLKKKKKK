@@ -36,3 +36,13 @@ body{
     display: block;
     text-decoration: none;
  }
+
+ .botao_secundario {
+     background-color: transparent;
+     border: 2px solid var(--Cinza-segundario) ;
+ }
+
+ .container__aviso {
+
+
+ }
